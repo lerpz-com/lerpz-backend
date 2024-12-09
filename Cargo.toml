@@ -39,7 +39,7 @@ chrono = { version = "0.4", features = ["serde"] }
 argon2 = { version = "0.5", features = ["std"] }
 dotenvy = "0.15"
 regex = "1.11"
-idna = "=1.0.2" # Temporary fix for https://github.com/servo/rust-url/issues/992
+idna = "=1.0.3" # Temporary fix for https://github.com/servo/rust-url/issues/992
 
 
 [[bin]]
